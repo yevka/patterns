@@ -1,0 +1,1 @@
+# based on the book Head First Design Patterns (A Brain Friendly Guide) by Elisabeth Freeman, Eric Freeman, Bert Bates, Kathy Sierra
